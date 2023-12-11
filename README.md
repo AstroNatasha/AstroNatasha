@@ -10,7 +10,7 @@ I'm in my final year of undergraduate studies in Astronomy at UFRJ. Here, you'll
 
 ## 💼 Professional Journey
 
-Professionally, I've been working as a data scientist since 2018. I began at the Brazilian Institute of Economics as a business analytics professional and full-stack developer. Later, I ventured into People Analytics at Sinch, and currently, I'm at Stone Co, contributing as a business analytics professional, providing analyses that assist stakeholders in making strategic decisions about their products. You can find more details on my LinkedIn profile!
+Professionally, I've been working as a data scientist since 2018. I began at the Brazilian Institute of Economics as a business analytics professional and full-stack developer. Later, I ventured into People Analytics at Sinch, and currently, I'm at Stone Co, contributing as a business analytics professional, providing analyses that assist stakeholders in making strategic decisions about their products. My main programming languages are R, SQL and python. You can find more details on my LinkedIn profile!
 
 ## 🧪 Scientific Passion
 
