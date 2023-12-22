@@ -14,7 +14,7 @@ Professionally, I've been working as a data scientist since 2018. I began at the
 
 ## 🧪 Scientific Passion
 
-My scientific inclination fuels my keen interest in creating well-documented projects, where I can discover new things and solve problems. I've dedicated several years of my life to topics such as machine learning, AI, and data visualization. In 2023, I published my first children's book, "An Universe Within You" (Um Universo em Você) aiming to demystify the idea of genius and what it means to be a scientist, emphasizing the common ground between scientists and children.
+My scientific inclination fuels my keen interest in creating well-documented projects, where I can discover new things and solve problems. I've dedicated several years of my life to topics such as machine learning, AI, and data visualization. In 2023, I published my first children's book, "A Universe Within You" (Um Universo em Você) aiming to demystify the idea of genius and what it means to be a scientist, emphasizing the common ground between scientists and children.
 
 
 
