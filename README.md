@@ -6,7 +6,7 @@ As you can see, I wear multiple hats. I'm passionate about the universe, people,
 
 ## 🎓 Education
 
-I'm in my final year of BSc studies in Astronomy at UFRJ. Here, you'll find some of my small projects. My research focuses on astrophysics and astrochemistry, involving the development of elemental and mineralogical analyses of meteorites using non-destructive instruments to preserve these extraordinary objects.
+I'm an astrophysicist (I completed my B.S.c studies at the Federal University of Rio de Janeiro), and currently a M.Sc. student at PESC/COPPE in optimization. Here, you'll find some of my small projects.
 
 ## 💼 Professional Journey
 
