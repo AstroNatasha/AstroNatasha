@@ -6,11 +6,11 @@ As you can see, I wear multiple hats. I'm passionate about the universe, people,
 
 ## 🎓 Education
 
-I'm an astrophysicist (I completed my B.S.c studies at the Federal University of Rio de Janeiro), and currently a M.Sc. student at PESC/COPPE in optimization. Here, you'll find some of my small projects.
+I'm an astrophysicist (B.S.c at the Federal University of Rio de Janeiro), and currently a M.Sc. student at PESC/COPPE in optimization. Here, you'll find some of my small projects.
 
 ## 💼 Professional Journey
 
-Professionally, I've been working as a data scientist since 2018. I began at the Brazilian Institute of Economics as a business analytics professional and full-stack developer. Later, I ventured into People Analytics at Sinch, and currently, I'm at Stone Co, contributing as a business analytics professional, providing analyses that assist stakeholders in making strategic decisions about their products. My main programming languages are R, SQL and python. You can find more details on my LinkedIn profile!
+Professionally, I've been working as a data scientist since 2018. I began at the Brazilian Institute of Economics as a Business Analytics professional and full-stack developer. Later, I ventured into People Analytics at Sinch, and later I worked with Analytics Engineering at Stone Co, contributing as a business analytics professional, providing analyses that assist stakeholders in making strategic decisions about their products. Currently I'm working with Systems Engineering at the Electrical Energy Research Center. My main programming languages are R, SQL and Python. You can find more details on my LinkedIn profile!
 
 ## 🧪 Scientific Passion
 
