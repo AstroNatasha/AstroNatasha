@@ -1,4 +1,4 @@
-# Hey you, I'm Natasha.
+# Somewhere between stochastic processes and questionable amounts of entropy
 
 
 Astrophysicist, M.Sc. in Systems Engineering & Computer Science; Ph.D. student at COPPE/UFRJ; Researcher at Applied Artificial Intelligence Data Fusion Laboratory (LaFIAA/IPqM); interested in data fusion, computer vision, probabilistic modeling, and physical AI.
